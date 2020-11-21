@@ -20,8 +20,8 @@
 # 周末愉快！
 
 
-<del> 还是射箭香</del>
-
 <del> github并不怎么香</del>
+
+<del> 但是感觉有点意思啊</del>
 
 [加个跳转试试？](https://github.com/huangkuns/wireframe)
